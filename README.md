@@ -27,7 +27,7 @@ No WiFi. No internet. Just you, a tiny screen, and your reflexes.
 
 | Part | Details |
 |---|---|
-| Board | ESP8266 — NodeMCU or Wemos D1 Mini |
+| Board | ESP8266 - NodeMCU or Wemos D1 Mini |
 | Display | 0.96" OLED, SSD1306, 128×64 px, I2C |
 | Button | Any momentary push button (NO type) |
 | Power | Micro-USB 5V |
